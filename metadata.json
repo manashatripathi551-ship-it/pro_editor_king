@@ -1,0 +1,6 @@
+{
+  "name": "Manas-MatchCut",
+  "description": "AI Video Generator app created by Manas Tripathi. Transform text, photos, and ideas into cinematic AI videos, Shorts, and animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
